@@ -8,7 +8,7 @@ Begin
   readln(num2);
   soma := num1+num2;
   if soma>20 then
-  write('O valor da soma desses números é ',soma, ' e adicionando 8 a esse valor fica: ', soma+8)
+    write('O valor da soma desses números é ',soma, ' e adicionando 8 a esse valor fica: ', soma+8)
   else
-  write('O valor da soma desses números é ', soma, ' e subtraindo 5 desse valor fica: ', soma-5)
+    write('O valor da soma desses números é ', soma, ' e subtraindo 5 desse valor fica: ', soma-5)
 end.
